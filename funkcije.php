@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Jernej
- * Date: 07-Apr-17
- * Time: 18:37
- */
+
 function izpis($ime) {
     include ("povezava.php");
 
