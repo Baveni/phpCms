@@ -1,0 +1,8 @@
+div.forma {
+    border:1px solid black;
+    min-height:400px;
+    padding:20px;
+}
+div.glavna {
+    margin-top:-20px;
+}
