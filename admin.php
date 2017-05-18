@@ -1,8 +1,5 @@
 <?php
-// Slika na admin strani naj bo iste velikosti
-// Na Edit strani podatki niso v tabeli ampak v <div> formatu
-// Post.html spremnis v .php in naredis da se ti pokaze celotni zapis iz baze
-// Bonus-> Urejanje geader imagea v templatu
+
 
 session_start();
 if (!isset($_SESSION["prijavljen"])){
